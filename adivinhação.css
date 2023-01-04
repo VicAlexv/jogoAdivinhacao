@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://1.bp.blogspot.com/-kY1ZtoOIVEs/XmXHKUbRRHI/AAAAAAACeVg/A9spwGzj_LIBnhE0ntKsLae3WAi5F6AaACLcBGAsYHQ/s1600/a5733481a2ce738e1156f07d0dc81f81.jpg");
+    background-repeat:no-repeat;
+    font-size: 16pt;
+    background-size: 750px;
+
+
+}
+#nome{
+
+    font-size: 18pt;
+    color: blue;
+
+}
+p{
+    text-align: center;
+    alignment: center;
+
+}
+div{
+    text-align: center;
+    alignment: center;
+    width: 75px;
+    height: 25px;
+    margin-left: 900px;
+
+
+
+}
